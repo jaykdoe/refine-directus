@@ -48,6 +48,7 @@
     "dependencies": {
         "@directus/sdk": "^10.3.1",
         "@pankod/refine-core": "^3.99.4",
+        "@tspvivek/refine-directus": "^1.0.19",
         "@types/react": "^18.0.0"
     },
     "gitHead": "829f5a516f98c06f666d6be3e6e6099c75c07719",
